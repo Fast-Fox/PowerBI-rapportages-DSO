@@ -1,0 +1,6 @@
+Versie 1.7
+
+- Update naar nieuwste structuur S1 en S2 databestanden
+- Filter pagina toegevoegd zodat vanuit het dashboard zelf eenvoudig te kiezen is welke initator en ketenpartner je wilt bekijken. 
+- Per pagina een beschrijving toegevoegd zodat het dashboard op zichzelf gebruikt kan worden. 
+- Verbetering in de pagina met gemiddelde doorlooptijd om een betere weergave te maken. 
