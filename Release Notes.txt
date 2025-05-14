@@ -4,3 +4,10 @@ Versie 1.7
 - Filter pagina toegevoegd zodat vanuit het dashboard zelf eenvoudig te kiezen is welke initator en ketenpartner je wilt bekijken. 
 - Per pagina een beschrijving toegevoegd zodat het dashboard op zichzelf gebruikt kan worden. 
 - Verbetering in de pagina met gemiddelde doorlooptijd om een betere weergave te maken. 
+
+Versie 1.92
+
+- Update naar laatste structuur van de kruismatrix output
+- Actieverzoeken nu ook gefilterd op het jaar 2025
+- Grafiek toegevoegd die binnen een groep ketenpartners de verdeling laat zien. 
+- Kleine cosmetische wijzigingen
